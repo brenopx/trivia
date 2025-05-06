@@ -1,0 +1,7 @@
+# dependencies
+/.venv
+
+/test.db
+
+# Ignorar diretórios __pycache__
+**/__pycache__/
